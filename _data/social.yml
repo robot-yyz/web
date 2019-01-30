@@ -1,16 +1,13 @@
 platform:
-  - name: twitter
-    url: 'https://twitter.com/jshvgt'
-    class: u-url
-  - name: github
-    url: 'https://github.com/dumaurier'
-    class: u-url
-  - name: email
-    url: 'mailto:joshvogt@gmail.com'
-    class: u-email
-  - name: sms
+  - class: u-url
+    name: github
+    url: 'https://github.com/robot-yyz'
+  - class: u-email
+    name: email
+    url: 'mailto:josh.vogt@icloud.com'
+  - class: u-tel
+    name: sms
     url: 'sms:+14169671111'
-    class: u-tel
-  - name: my site
-    url: 'https://joshvogt.co'
-    class: u-url
+  - class: u-url
+    name: web
+    url: 'https://focused-mayer-e4e96b.netlify.com'
