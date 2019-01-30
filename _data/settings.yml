@@ -1,4 +1,4 @@
 title: A PWA Powered by Jekyll and Served with Netlify
-domainname: 'pwa-jekyll-starter.netlify.com'
+domainname: focused-mayer-e4e96b.netlify.com
 webmention: true
-bootstrap: false
+bootstrap: true
