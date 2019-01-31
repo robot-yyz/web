@@ -8,3 +8,7 @@ author: Josh Vogt
 permalink: '/posts/:year/:title/'
 ---
 This is some content. It's not good content. It's fine content. I mean, it'll do. Content ain't cheap these days. Take what you can get. Wow Bob Wow.
+
+
+
+A link to a thing: [THING](https://joshvogt.co/posts/blog/update-jekyll-pwa-webmentions-netlify-cms/)
